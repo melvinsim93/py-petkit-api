@@ -10,3 +10,5 @@
 .idea
 *.pyc
 /patch_mod
+/ignore
+/w7h_dump.json
